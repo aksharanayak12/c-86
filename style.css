@@ -1,0 +1,22 @@
+input{
+    margin: 20px;
+}
+#displaywithcommas{
+    border: 1px solid green;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 50%;
+}
+#displaywithoutcommas{
+    border: 1px solid rgb(128, 87, 0);
+    padding: 10px;
+    background-color: rgba(134, 153, 158, 0.404);
+    border-radius: 10px;
+    width: 50%;
+}
+#sort_button{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
